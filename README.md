@@ -2,7 +2,7 @@
 
 Hi, my name is Amier, I am a third-year[^1] student at Hampton University studying Computer Science with a focus in AI and Machine Learning.
 
-This is my digital garden / portfolio!
+This is my digital garden / portfolio, live at [mieracle.com](https://mieracle.com).
 
 > A digital garden is a personal website or knowledge space where notes, ideas, and writing are published in various stages of development, organised by connection rather than by date, and allowed to evolve openly over time. [^2]
 
