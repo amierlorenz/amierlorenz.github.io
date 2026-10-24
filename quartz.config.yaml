@@ -275,7 +275,7 @@ plugins:
     enabled: true
     options:
       links:
-        My GitHub: https://github.com/amierd
+        My GitHub: https://github.com/amierlorenz
     layout:
       position: footer
       priority: 50
